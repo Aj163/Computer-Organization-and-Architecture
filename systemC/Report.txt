@@ -1,0 +1,12 @@
+Assignment A1
+
+Submitted by:
+	Ashwin Joisa - 16CO104
+	Praveen Raj  - 16CO115
+
+
+- All questions have been programmed in systemC.
+- Each question has a sub-directory containing block diagrams, testbench including the monitor and stimulus, execution screenshots, 
+  VCD dump, gtkwave screenshots.
+
+Question 5 has been coded in verilog also, as the systemC code, we have written did not give desired results.
